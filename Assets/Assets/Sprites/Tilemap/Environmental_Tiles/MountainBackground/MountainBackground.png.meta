@@ -1,0 +1,2446 @@
+fileFormatVersion: 2
+guid: 4ba8d7ac30496264d9890defd5a526a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: MountainBackground_0
+  - first:
+      213: 21300002
+    second: MountainBackground_1
+  - first:
+      213: 21300004
+    second: MountainBackground_2
+  - first:
+      213: 21300006
+    second: MountainBackground_3
+  - first:
+      213: 21300008
+    second: MountainBackground_4
+  - first:
+      213: 21300010
+    second: MountainBackground_5
+  - first:
+      213: 21300012
+    second: MountainBackground_6
+  - first:
+      213: 21300014
+    second: MountainBackground_7
+  - first:
+      213: 21300016
+    second: MountainBackground_8
+  - first:
+      213: 21300018
+    second: MountainBackground_9
+  - first:
+      213: 21300020
+    second: MountainBackground_10
+  - first:
+      213: 21300022
+    second: MountainBackground_11
+  - first:
+      213: 21300024
+    second: MountainBackground_12
+  - first:
+      213: 21300026
+    second: MountainBackground_13
+  - first:
+      213: 21300028
+    second: MountainBackground_14
+  - first:
+      213: 21300030
+    second: MountainBackground_15
+  - first:
+      213: 1683398143840438457
+    second: MountainBackground_0
+  - first:
+      213: -7905426641619796583
+    second: MountainBackground_1
+  - first:
+      213: 1325144789557062643
+    second: MountainBackground_2
+  - first:
+      213: 8781977324019093985
+    second: MountainBackground_3
+  - first:
+      213: -2340458099777793762
+    second: MountainBackground_4
+  - first:
+      213: 1436947001708250400
+    second: MountainBackground_5
+  - first:
+      213: -7552886396247032104
+    second: MountainBackground_6
+  - first:
+      213: -7245674660482722576
+    second: MountainBackground_7
+  - first:
+      213: 8466047956778433
+    second: MountainBackground_8
+  - first:
+      213: -3720034907296226597
+    second: MountainBackground_9
+  - first:
+      213: -2816506223229526137
+    second: MountainBackground_10
+  - first:
+      213: -7623180422806264904
+    second: MountainBackground_11
+  - first:
+      213: 3798000681337272378
+    second: MountainBackground_12
+  - first:
+      213: -6133469922388549073
+    second: MountainBackground_13
+  - first:
+      213: 7195094528182934950
+    second: MountainBackground_14
+  - first:
+      213: 6624859540670542646
+    second: MountainBackground_15
+  - first:
+      213: -3732986410999627518
+    second: MountainBackground_16
+  - first:
+      213: -220515268218599115
+    second: MountainBackground_17
+  - first:
+      213: 1919143767576832769
+    second: MountainBackground_18
+  - first:
+      213: -3178283190680109684
+    second: MountainBackground_19
+  - first:
+      213: 193219498465276597
+    second: MountainBackground_20
+  - first:
+      213: -821875590735321070
+    second: MountainBackground_21
+  - first:
+      213: 3137966559403396027
+    second: MountainBackground_22
+  - first:
+      213: 488597256471305467
+    second: MountainBackground_23
+  - first:
+      213: 8000571131903179137
+    second: MountainBackground_24
+  - first:
+      213: -5462671997811591834
+    second: MountainBackground_25
+  - first:
+      213: 7547480590861499521
+    second: MountainBackground_26
+  - first:
+      213: 1334291184742687741
+    second: MountainBackground_27
+  - first:
+      213: -3660172599738157387
+    second: MountainBackground_28
+  - first:
+      213: 3292641334469308207
+    second: MountainBackground_29
+  - first:
+      213: 1682862235126480196
+    second: MountainBackground_30
+  - first:
+      213: -493463835047634422
+    second: MountainBackground_31
+  - first:
+      213: -402234077403105816
+    second: MountainBackground_32
+  - first:
+      213: -731444087186697205
+    second: MountainBackground_33
+  - first:
+      213: -3184233417099639818
+    second: MountainBackground_34
+  - first:
+      213: -3846854684983352686
+    second: MountainBackground_35
+  - first:
+      213: -1547636756423733023
+    second: MountainBackground_36
+  - first:
+      213: -6109846557552654921
+    second: MountainBackground_37
+  - first:
+      213: -2362635656197431371
+    second: MountainBackground_38
+  - first:
+      213: -7333854613765448180
+    second: MountainBackground_39
+  - first:
+      213: -8654872574484936057
+    second: MountainBackground_40
+  - first:
+      213: -2467383441117698609
+    second: MountainBackground_41
+  - first:
+      213: -6068437372240788862
+    second: MountainBackground_42
+  - first:
+      213: 5445241654756095506
+    second: MountainBackground_43
+  - first:
+      213: 4282167363545906450
+    second: MountainBackground_44
+  - first:
+      213: 4269954745262026198
+    second: MountainBackground_45
+  - first:
+      213: -6955630685756231973
+    second: MountainBackground_46
+  - first:
+      213: 7974118359641647889
+    second: MountainBackground_47
+  - first:
+      213: -4932787713955471910
+    second: MountainBackground_48
+  - first:
+      213: -8689628748861434783
+    second: MountainBackground_49
+  - first:
+      213: -4411169118906920559
+    second: MountainBackground_50
+  - first:
+      213: 2532956961353216834
+    second: MountainBackground_51
+  - first:
+      213: -8077618279548927267
+    second: MountainBackground_52
+  - first:
+      213: -1899561376934343074
+    second: MountainBackground_53
+  - first:
+      213: -1768384223619047364
+    second: MountainBackground_54
+  - first:
+      213: -7906889208766910174
+    second: MountainBackground_55
+  - first:
+      213: 1144754086847982706
+    second: MountainBackground_56
+  - first:
+      213: -8274773241326593621
+    second: MountainBackground_57
+  - first:
+      213: -9204387457041659949
+    second: MountainBackground_58
+  - first:
+      213: -8192318072527233304
+    second: MountainBackground_59
+  - first:
+      213: -8619345296011591355
+    second: MountainBackground_60
+  - first:
+      213: -5491631438778846772
+    second: MountainBackground_61
+  - first:
+      213: 8729688154212578496
+    second: MountainBackground_62
+  - first:
+      213: -7931859326038886154
+    second: MountainBackground_63
+  - first:
+      213: -8373221803695266563
+    second: MountainBackground_64
+  - first:
+      213: -8828620633941668315
+    second: MountainBackground_65
+  - first:
+      213: 2659606708614001145
+    second: MountainBackground_66
+  - first:
+      213: 2340999390065513892
+    second: MountainBackground_67
+  - first:
+      213: -1565850831577298387
+    second: MountainBackground_68
+  - first:
+      213: -6836532457010667768
+    second: MountainBackground_69
+  - first:
+      213: 8538052860099174686
+    second: MountainBackground_70
+  - first:
+      213: -2468216249489598097
+    second: MountainBackground_71
+  - first:
+      213: 7827987629219559673
+    second: MountainBackground_72
+  - first:
+      213: -5124775984987120898
+    second: MountainBackground_73
+  - first:
+      213: -5652852404386668479
+    second: MountainBackground_74
+  - first:
+      213: 3294209378768201795
+    second: MountainBackground_75
+  - first:
+      213: -4327579288501993448
+    second: MountainBackground_76
+  - first:
+      213: 9160912379572434685
+    second: MountainBackground_77
+  - first:
+      213: -8600562294286289924
+    second: MountainBackground_78
+  - first:
+      213: -3105001639179521168
+    second: MountainBackground_79
+  - first:
+      213: -1292989129238857395
+    second: MountainBackground_80
+  - first:
+      213: 5043273352722445845
+    second: MountainBackground_81
+  - first:
+      213: 7005575812254707478
+    second: MountainBackground_82
+  - first:
+      213: 3030194032435242214
+    second: MountainBackground_83
+  - first:
+      213: -2754786618292352370
+    second: MountainBackground_84
+  - first:
+      213: 182134679165661978
+    second: MountainBackground_85
+  - first:
+      213: 4333147322767010590
+    second: MountainBackground_86
+  - first:
+      213: 575429597383462861
+    second: MountainBackground_87
+  - first:
+      213: -5858576602207767979
+    second: MountainBackground_88
+  - first:
+      213: -8813518421187764309
+    second: MountainBackground_89
+  - first:
+      213: -4268327128089024714
+    second: MountainBackground_90
+  - first:
+      213: 3179873751940265502
+    second: MountainBackground_91
+  - first:
+      213: -7564377844434381814
+    second: MountainBackground_92
+  - first:
+      213: 2948033831192734869
+    second: MountainBackground_93
+  - first:
+      213: 6430605802359013168
+    second: MountainBackground_94
+  - first:
+      213: -7304873216861026615
+    second: MountainBackground_95
+  - first:
+      213: -4967201968885844782
+    second: MountainBackground_96
+  - first:
+      213: 7033173255594005512
+    second: MountainBackground_97
+  - first:
+      213: -3174183133538412668
+    second: MountainBackground_98
+  - first:
+      213: 6198887274683252647
+    second: MountainBackground_99
+  - first:
+      213: -9191918829825306624
+    second: MountainBackground_100
+  - first:
+      213: -467263739919677005
+    second: MountainBackground_101
+  - first:
+      213: 5279382980968013400
+    second: MountainBackground_102
+  - first:
+      213: 9066542025699275695
+    second: MountainBackground_103
+  - first:
+      213: 6396954242748307049
+    second: MountainBackground_104
+  - first:
+      213: -322140581474667771
+    second: MountainBackground_105
+  - first:
+      213: -3365882972355074562
+    second: MountainBackground_106
+  - first:
+      213: -4062351548314149575
+    second: MountainBackground_107
+  - first:
+      213: 7426622148501185384
+    second: MountainBackground_108
+  - first:
+      213: 3065449583725023502
+    second: MountainBackground_109
+  - first:
+      213: -925292564285338692
+    second: MountainBackground_110
+  - first:
+      213: 3335918611967554476
+    second: MountainBackground_111
+  - first:
+      213: -3152535443907566251
+    second: MountainBackground_112
+  - first:
+      213: -4881245242835914209
+    second: MountainBackground_113
+  - first:
+      213: 1398593918833287053
+    second: MountainBackground_114
+  - first:
+      213: 3619231549349361876
+    second: MountainBackground_115
+  - first:
+      213: -2142377504703086956
+    second: MountainBackground_116
+  - first:
+      213: -5718495314775927550
+    second: MountainBackground_117
+  - first:
+      213: -3420652521197708323
+    second: MountainBackground_118
+  - first:
+      213: -1210880076444625996
+    second: MountainBackground_119
+  - first:
+      213: -5841562896793939722
+    second: MountainBackground_120
+  - first:
+      213: -7498472614890039143
+    second: MountainBackground_121
+  - first:
+      213: -9000954898093281011
+    second: MountainBackground_122
+  - first:
+      213: 8592295084741265943
+    second: MountainBackground_123
+  - first:
+      213: -1061197724079670368
+    second: MountainBackground_124
+  - first:
+      213: 2759727490842499898
+    second: MountainBackground_125
+  - first:
+      213: 1037258051662107171
+    second: MountainBackground_126
+  - first:
+      213: 6550132764871306503
+    second: MountainBackground_127
+  - first:
+      213: -7447587500715525016
+    second: MountainBackground_128
+  - first:
+      213: 1844501204268613383
+    second: MountainBackground_129
+  - first:
+      213: 4535998476892354514
+    second: MountainBackground_130
+  - first:
+      213: -2706650841457805232
+    second: MountainBackground_131
+  - first:
+      213: 3330143729264954686
+    second: MountainBackground_132
+  - first:
+      213: 1962061750911565011
+    second: MountainBackground_133
+  - first:
+      213: 7009972880600572509
+    second: MountainBackground_134
+  - first:
+      213: 8529132729585989516
+    second: MountainBackground_135
+  - first:
+      213: 5551085757644429231
+    second: MountainBackground_136
+  - first:
+      213: 4773836817761363727
+    second: MountainBackground_137
+  - first:
+      213: 1638111541922318638
+    second: MountainBackground_138
+  - first:
+      213: -791909937554094261
+    second: MountainBackground_139
+  - first:
+      213: -3825618962468771331
+    second: MountainBackground_140
+  - first:
+      213: 2398913158041296065
+    second: MountainBackground_141
+  - first:
+      213: 505589615899895074
+    second: MountainBackground_142
+  - first:
+      213: -8184283135556455341
+    second: MountainBackground_143
+  - first:
+      213: 2697232035894322180
+    second: MountainBackground_144
+  - first:
+      213: 1259124043311837738
+    second: MountainBackground_145
+  - first:
+      213: -4403491851862662182
+    second: MountainBackground_146
+  - first:
+      213: 7834629592104601926
+    second: MountainBackground_147
+  - first:
+      213: -422930322883570761
+    second: MountainBackground_148
+  - first:
+      213: 4267674001749076441
+    second: MountainBackground_149
+  - first:
+      213: -2661618434257812455
+    second: MountainBackground_150
+  - first:
+      213: 7612847456330023094
+    second: MountainBackground_151
+  - first:
+      213: -4458828949206461892
+    second: MountainBackground_152
+  - first:
+      213: -1283470593874741949
+    second: MountainBackground_153
+  - first:
+      213: 4620414491740636295
+    second: MountainBackground_154
+  - first:
+      213: 790673481209265054
+    second: MountainBackground_155
+  - first:
+      213: -1866974733730489521
+    second: MountainBackground_156
+  - first:
+      213: -1379225229520162816
+    second: MountainBackground_157
+  - first:
+      213: -1947146939042030428
+    second: MountainBackground_158
+  - first:
+      213: -346924215262973102
+    second: MountainBackground_159
+  - first:
+      213: -557373594690836181
+    second: MountainBackground_160
+  - first:
+      213: 4522980792637009986
+    second: MountainBackground_161
+  - first:
+      213: 5262535486075033709
+    second: MountainBackground_162
+  - first:
+      213: -8941053445094463466
+    second: MountainBackground_163
+  - first:
+      213: 2516237806107281369
+    second: MountainBackground_164
+  - first:
+      213: -303663122171461986
+    second: MountainBackground_165
+  - first:
+      213: 1491439267725981722
+    second: MountainBackground_166
+  - first:
+      213: 3197605184717508719
+    second: MountainBackground_167
+  - first:
+      213: -8112605552771665622
+    second: MountainBackground_168
+  - first:
+      213: -8058195950029454760
+    second: MountainBackground_169
+  - first:
+      213: -8359155124475071198
+    second: MountainBackground_170
+  - first:
+      213: -3421131016301375146
+    second: MountainBackground_171
+  - first:
+      213: -7455114162321859631
+    second: MountainBackground_172
+  - first:
+      213: 849583094283362122
+    second: MountainBackground_173
+  - first:
+      213: -6643361092228642078
+    second: MountainBackground_174
+  - first:
+      213: -898290775941617180
+    second: MountainBackground_175
+  - first:
+      213: -1971993516245242299
+    second: MountainBackground_176
+  - first:
+      213: 8766082738950979006
+    second: MountainBackground_177
+  - first:
+      213: 1339459007629064466
+    second: MountainBackground_178
+  - first:
+      213: -2112725249297584610
+    second: MountainBackground_179
+  - first:
+      213: 1305517241850825108
+    second: MountainBackground_180
+  - first:
+      213: 3710451163023721423
+    second: MountainBackground_181
+  - first:
+      213: -6820606719699876591
+    second: MountainBackground_182
+  - first:
+      213: -8383396109261267063
+    second: MountainBackground_183
+  - first:
+      213: 4762318633687145767
+    second: MountainBackground_184
+  - first:
+      213: -3186169172462206322
+    second: MountainBackground_185
+  - first:
+      213: -5145610590018000907
+    second: MountainBackground_186
+  - first:
+      213: 6315933587490027049
+    second: MountainBackground_187
+  - first:
+      213: -1628058168459635566
+    second: MountainBackground_188
+  - first:
+      213: -2478536212841424464
+    second: MountainBackground_189
+  - first:
+      213: -6741490099982333517
+    second: MountainBackground_190
+  - first:
+      213: -7274990992190663299
+    second: MountainBackground_191
+  - first:
+      213: 7163197446318940275
+    second: MountainBackground_192
+  - first:
+      213: -6392423303084072532
+    second: MountainBackground_193
+  - first:
+      213: -5770753639719990537
+    second: MountainBackground_194
+  - first:
+      213: -98668200892938940
+    second: MountainBackground_195
+  - first:
+      213: -1117935319898232288
+    second: MountainBackground_196
+  - first:
+      213: 5831106465083848832
+    second: MountainBackground_197
+  - first:
+      213: -6917800972277381327
+    second: MountainBackground_198
+  - first:
+      213: -7483789025119255022
+    second: MountainBackground_199
+  - first:
+      213: -1051729432913696856
+    second: MountainBackground_200
+  - first:
+      213: 4742587662954116503
+    second: MountainBackground_201
+  - first:
+      213: -1163243156196927737
+    second: MountainBackground_202
+  - first:
+      213: 8705317105669760226
+    second: MountainBackground_203
+  - first:
+      213: 614075580273182130
+    second: MountainBackground_204
+  - first:
+      213: -1500326734698419629
+    second: MountainBackground_205
+  - first:
+      213: 4346411426704161523
+    second: MountainBackground_206
+  - first:
+      213: 4211344897157903144
+    second: MountainBackground_207
+  - first:
+      213: 3884432895300976889
+    second: MountainBackground_208
+  - first:
+      213: 8508517421316703517
+    second: MountainBackground_209
+  - first:
+      213: -8866142197298393556
+    second: MountainBackground_210
+  - first:
+      213: -8335071849022912823
+    second: MountainBackground_211
+  - first:
+      213: -5171507302898532684
+    second: MountainBackground_212
+  - first:
+      213: 1485589958940616768
+    second: MountainBackground_213
+  - first:
+      213: 2315009014353636440
+    second: MountainBackground_214
+  - first:
+      213: -3747206135121158868
+    second: MountainBackground_215
+  - first:
+      213: 5731159869529993849
+    second: MountainBackground_216
+  - first:
+      213: 8605278532664782035
+    second: MountainBackground_217
+  - first:
+      213: -7713800570173614760
+    second: MountainBackground_218
+  - first:
+      213: 3652664962608926460
+    second: MountainBackground_219
+  - first:
+      213: 5813329359006722364
+    second: MountainBackground_220
+  - first:
+      213: -3433750683289582888
+    second: MountainBackground_221
+  - first:
+      213: 4879781840017657035
+    second: MountainBackground_222
+  - first:
+      213: -3151905612699162141
+    second: MountainBackground_223
+  - first:
+      213: 8702712102400474792
+    second: MountainBackground_224
+  - first:
+      213: 8651394994763238299
+    second: MountainBackground_225
+  - first:
+      213: 6619757542071387892
+    second: MountainBackground_226
+  - first:
+      213: -7166613411235164001
+    second: MountainBackground_227
+  - first:
+      213: -3450651781274579292
+    second: MountainBackground_228
+  - first:
+      213: -8699337889622887460
+    second: MountainBackground_229
+  - first:
+      213: -5722186634102424144
+    second: MountainBackground_230
+  - first:
+      213: 6662485580089347019
+    second: MountainBackground_231
+  - first:
+      213: 4035020083440861443
+    second: MountainBackground_232
+  - first:
+      213: 4576963604709893418
+    second: MountainBackground_233
+  - first:
+      213: -3551802938177102
+    second: MountainBackground_234
+  - first:
+      213: -4883367476666545221
+    second: MountainBackground_235
+  - first:
+      213: 2110253132219930307
+    second: MountainBackground_236
+  - first:
+      213: -7746878378166352018
+    second: MountainBackground_237
+  - first:
+      213: 8036044865114215443
+    second: MountainBackground_238
+  - first:
+      213: -2002386888398031866
+    second: MountainBackground_239
+  - first:
+      213: -4520651861833783900
+    second: MountainBackground_240
+  - first:
+      213: 328597723216476979
+    second: MountainBackground_241
+  - first:
+      213: -1077541804898819651
+    second: MountainBackground_242
+  - first:
+      213: 2876489062179981519
+    second: MountainBackground_243
+  - first:
+      213: -2376507002385300603
+    second: MountainBackground_244
+  - first:
+      213: -11337618294076059
+    second: MountainBackground_245
+  - first:
+      213: -6386584646709456661
+    second: MountainBackground_246
+  - first:
+      213: -45120248124616764
+    second: MountainBackground_247
+  - first:
+      213: -2186956443677828802
+    second: MountainBackground_248
+  - first:
+      213: -7341880924103434596
+    second: MountainBackground_249
+  - first:
+      213: 1660875278023480332
+    second: MountainBackground_250
+  - first:
+      213: -1002925581766589489
+    second: MountainBackground_251
+  - first:
+      213: 8170415741819169843
+    second: MountainBackground_252
+  - first:
+      213: 6989258386390913946
+    second: MountainBackground_253
+  - first:
+      213: 8646361056872135152
+    second: MountainBackground_254
+  - first:
+      213: 6356523589996739106
+    second: MountainBackground_255
+  - first:
+      213: -5842668440036634043
+    second: MountainBackground_16
+  - first:
+      213: 4491975996754114487
+    second: MountainBackground_17
+  - first:
+      213: -2487854279349149444
+    second: MountainBackground_18
+  - first:
+      213: -5190177373503953121
+    second: MountainBackground_19
+  - first:
+      213: 7380035522338662068
+    second: MountainBackground_20
+  - first:
+      213: 946841563113265350
+    second: MountainBackground_21
+  - first:
+      213: 101612726366410553
+    second: MountainBackground_22
+  - first:
+      213: 4599515460272685129
+    second: MountainBackground_23
+  - first:
+      213: 2368941013455029586
+    second: MountainBackground_24
+  - first:
+      213: 5899751917212924063
+    second: MountainBackground_25
+  - first:
+      213: -1161139793677463701
+    second: MountainBackground_26
+  - first:
+      213: -5503220547243214210
+    second: MountainBackground_27
+  - first:
+      213: 8822307996184943392
+    second: MountainBackground_28
+  - first:
+      213: -3850005413196375505
+    second: MountainBackground_29
+  - first:
+      213: -3558322838876009453
+    second: MountainBackground_30
+  - first:
+      213: -878282084993733177
+    second: MountainBackground_31
+  - first:
+      213: 5125351996207582058
+    second: MountainBackground_32
+  - first:
+      213: -6356806502721628650
+    second: MountainBackground_33
+  - first:
+      213: -8765041121288643561
+    second: MountainBackground_34
+  - first:
+      213: -6454459210059557857
+    second: MountainBackground_35
+  - first:
+      213: 2590564984892136369
+    second: MountainBackground_36
+  - first:
+      213: -3690979220267692714
+    second: MountainBackground_37
+  - first:
+      213: 2345658637120354346
+    second: MountainBackground_38
+  - first:
+      213: 4628544627165581737
+    second: MountainBackground_39
+  - first:
+      213: 142615282768328775
+    second: MountainBackground_40
+  - first:
+      213: -7177496155544816269
+    second: MountainBackground_41
+  - first:
+      213: 1778570524567348979
+    second: MountainBackground_42
+  - first:
+      213: 1214619850955529320
+    second: MountainBackground_43
+  - first:
+      213: -8588373780378244469
+    second: MountainBackground_44
+  - first:
+      213: -6769847413942028464
+    second: MountainBackground_45
+  - first:
+      213: -2183326775060130814
+    second: MountainBackground_46
+  - first:
+      213: -4625975774078540624
+    second: MountainBackground_47
+  - first:
+      213: 1795655294718006952
+    second: MountainBackground_48
+  - first:
+      213: 8146817913265910374
+    second: MountainBackground_49
+  - first:
+      213: -1112124044040211795
+    second: MountainBackground_50
+  - first:
+      213: -3234033233902376448
+    second: MountainBackground_51
+  - first:
+      213: 8490925661317749552
+    second: MountainBackground_52
+  - first:
+      213: 4539011879306150143
+    second: MountainBackground_53
+  - first:
+      213: 614576517133343314
+    second: MountainBackground_54
+  - first:
+      213: 5275527142738248106
+    second: MountainBackground_55
+  - first:
+      213: 5134176809827601521
+    second: MountainBackground_56
+  - first:
+      213: -3175402073336438745
+    second: MountainBackground_57
+  - first:
+      213: -3573609781526283313
+    second: MountainBackground_58
+  - first:
+      213: -7017184700056996922
+    second: MountainBackground_59
+  - first:
+      213: -1980813833785527452
+    second: MountainBackground_60
+  - first:
+      213: 4689976481483627245
+    second: MountainBackground_61
+  - first:
+      213: 6051476155131082411
+    second: MountainBackground_62
+  - first:
+      213: 865375635977920524
+    second: MountainBackground_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MountainBackground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8492b51b1ac5710800000000000000
+      internalID: 1683398143840438457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99db75caa584a4290800000000000000
+      internalID: -7905426641619796583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb22894a2cd36210800000000000000
+      internalID: 1325144789557062643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e191b7e8d9dfd970800000000000000
+      internalID: 8781977324019093985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e111f0f22c5058fd0800000000000000
+      internalID: -2340458099777793762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02502ed4faf01f310800000000000000
+      internalID: 1436947001708250400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deb0dae6d1ce2790800000000000000
+      internalID: -7552886396247032104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4d0e71941327b90800000000000000
+      internalID: -7245674660482722576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd7d1563d31e1000800000000000000
+      internalID: 8466047956778433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd22e8e16f7cf5cc0800000000000000
+      internalID: -3720034907296226597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f1ab03382c9e8d0800000000000000
+      internalID: -2816506223229526137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3abe77bc5053690800000000000000
+      internalID: -7623180422806264904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38bccb3f7535b430800000000000000
+      internalID: 3798000681337272378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22ec732a9981eaa0800000000000000
+      internalID: -6133469922388549073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad53b52a5c1ad360800000000000000
+      internalID: 7195094528182934950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6337688f6aa30fb50800000000000000
+      internalID: 6624859540670542646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5421b33720caaeea0800000000000000
+      internalID: -5842668440036634043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b73c1a9e54b65e30800000000000000
+      internalID: 4491975996754114487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf06572d6bd597dd0800000000000000
+      internalID: -2487854279349149444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17e6037d29c8f7b0800000000000000
+      internalID: -5190177373503953121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6a2cad4372b6660800000000000000
+      internalID: 7380035522338662068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c811f3926bd32d00800000000000000
+      internalID: 946841563113265350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9379abb7c30096100800000000000000
+      internalID: 101612726366410553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940887c11f2c4df30800000000000000
+      internalID: 4599515460272685129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25547d0fc4b20e020800000000000000
+      internalID: 2368941013455029586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98f7684c1120e150800000000000000
+      internalID: 5899751917212924063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fc847728dc2efe0800000000000000
+      internalID: -1161139793677463701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7affe0d112a0a3b0800000000000000
+      internalID: -5503220547243214210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b11b341622f6a70800000000000000
+      internalID: 8822307996184943392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a59139978029ac0800000000000000
+      internalID: -3850005413196375505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cc2a81b3c4e9ec0800000000000000
+      internalID: -3558322838876009453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdeb57d817bfc3f0800000000000000
+      internalID: -878282084993733177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bcaca3c78e02740800000000000000
+      internalID: 5125351996207582058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61652636a2618c7a0800000000000000
+      internalID: -6356806502721628650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c16e31a815c5680800000000000000
+      internalID: -8765041121288643561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14d62fab872d66a0800000000000000
+      internalID: -6454459210059557857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb9f0cd02983f320800000000000000
+      internalID: 2590564984892136369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d889e64f107ccc0800000000000000
+      internalID: -3690979220267692714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28b2e54a147d8020800000000000000
+      internalID: 2345658637120354346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a15f39b0d4eb3040800000000000000
+      internalID: 4628544627165581737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748b2f418dbaaf100800000000000000
+      internalID: 142615282768328775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375f4084649646c90800000000000000
+      internalID: -7177496155544816269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f621d40870cea810800000000000000
+      internalID: 1778570524567348979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c9751b1523bd010800000000000000
+      internalID: 1214619850955529320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aa646cc87ffc880800000000000000
+      internalID: -8588373780378244469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057736c25abac02a0800000000000000
+      internalID: -6769847413942028464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20411f7add343b1e0800000000000000
+      internalID: -2183326775060130814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b46c7efa8b3dcfb0800000000000000
+      internalID: -4625975774078540624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a657bc0af27be810800000000000000
+      internalID: 1795655294718006952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662f00a7abf4f0170800000000000000
+      internalID: 8146817913265910374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2ffc00311f090f0800000000000000
+      internalID: -1112124044040211795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ae07d88e76e13d0800000000000000
+      internalID: -3234033233902376448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bd711f6e3d5d570800000000000000
+      internalID: 8490925661317749552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff04259614fcdfe30800000000000000
+      internalID: 4539011879306150143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a970f061a678800800000000000000
+      internalID: 614576517133343314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa148d14cff663940800000000000000
+      internalID: 5275527142738248106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c82d34b92404740800000000000000
+      internalID: 5134176809827601521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7202eb763a4bee3d0800000000000000
+      internalID: -3175402073336438745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbb34666dcf76ec0800000000000000
+      internalID: -3573609781526283313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3fbc5a1b3fd9e90800000000000000
+      internalID: -7017184700056996922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463b80f105cb284e0800000000000000
+      internalID: -1980813833785527452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea94c7e2c4261140800000000000000
+      internalID: 4689976481483627245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6b55140892bf350800000000000000
+      internalID: 6051476155131082411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainBackground_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00edb35e8e620c00800000000000000
+      internalID: 865375635977920524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c8a40e44182de0a4fa2391b00da7f87e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
